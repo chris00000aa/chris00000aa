@@ -1,7 +1,6 @@
 # Hi, I'm Christian 
 
-IT Engineering student (AI specialization) at Universidad Politécnica de Santa Rosa Jáuregui, currently in my 5th quarter. Looking for a Software Development, AI, or Backend/Full-Stack internship.
-
+IT Engineering student (AI specialization).
 ## What I've built
 
 **[Menthor](https://github.com/chris00000aa/Menthor)** — A real-time, Kahoot-style quiz platform built with Next.js, Prisma, and a custom Socket.IO server. I built the backend: authentication (bcrypt, JWT in httpOnly cookies), a REST API with role-based authorization, and a relational schema in Prisma/SQLite. The real-time game engine is tested end-to-end between a laptop and a phone over local Wi-Fi. It also integrates the Gemini API to auto-suggest quiz questions, with a human review step before saving.
