@@ -1,4 +1,4 @@
-# Hi, I'm Christian 
+
 
 IT Engineering student (AI specialization).
 
